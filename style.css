@@ -48,6 +48,12 @@ h2{
     padding: 5%;
     box-shadow: 10px 20px 40px gray;
 }
+.experience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position: left;
+}
 #full-web{
     border-left: 8px solid;
     border-image: linear-gradient(purple,tomato);
